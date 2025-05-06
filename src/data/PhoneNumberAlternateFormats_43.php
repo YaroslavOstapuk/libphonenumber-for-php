@@ -132,7 +132,7 @@ return array (
       'format' => '$1 $2 $3 $4',
       'leadingDigitsPatterns' => 
       array (
-        0 => '(?:31|4)6|51|6(?:5[0-3579]|[6-9])|7(?:20|32|8)|[89]',
+        0 => '(?:31|4)6|51|6(?:485|5[0-3579]|[6-9])|7(?:20|32|8)|[89]',
       ),
       'nationalPrefixFormattingRule' => '',
       'domesticCarrierCodeFormattingRule' => '',
@@ -144,7 +144,7 @@ return array (
       'format' => '$1 $2 $3 $4',
       'leadingDigitsPatterns' => 
       array (
-        0 => '(?:31|4)6|51|6(?:5[0-3579]|[6-9])|7(?:20|32|8)|[89]',
+        0 => '(?:31|4)6|51|6(?:485|5[0-3579]|[6-9])|7(?:20|32|8)|[89]',
       ),
       'nationalPrefixFormattingRule' => '',
       'domesticCarrierCodeFormattingRule' => '',
@@ -156,7 +156,7 @@ return array (
       'format' => '$1 $2 $3 $4',
       'leadingDigitsPatterns' => 
       array (
-        0 => '(?:31|4)6|51|6(?:5[0-3579]|[6-9])|7(?:20|32|8)|[89]',
+        0 => '(?:31|4)6|51|6(?:485|5[0-3579]|[6-9])|7(?:20|32|8)|[89]',
       ),
       'nationalPrefixFormattingRule' => '',
       'domesticCarrierCodeFormattingRule' => '',
@@ -168,7 +168,7 @@ return array (
       'format' => '$1 $2 $3',
       'leadingDigitsPatterns' => 
       array (
-        0 => '2|3(?:1[1-578]|[3-68])|4[2378]|5[2-6]|6(?:[124]|5[468])|7(?:2[1-8]|35|[4-79])',
+        0 => '2|3(?:1[1-578]|[3-68])|4[2378]|5[2-6]|6(?:[12]|4(?:[135-7]|8[34])|5[468])|7(?:2[1-8]|35|[4-79])',
       ),
       'nationalPrefixFormattingRule' => '',
       'domesticCarrierCodeFormattingRule' => '',

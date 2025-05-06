@@ -11,6 +11,7 @@
  */
 
 return array (
+  6742 => 'NEOTEL',
   674553 => 'Digicel',
   674554 => 'Digicel',
   674556 => 'Digicel',
@@ -18,5 +19,7 @@ return array (
   674558 => 'Digicel',
   674559 => 'Digicel',
   6746 => 'Digicel',
-  6748 => 'FSM Telecom',
+  6747 => 'NEOTEL',
+  6748 => 'NEOTEL',
+  6749 => 'NEOTEL',
 );
